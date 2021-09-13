@@ -1,0 +1,11 @@
+numpy
+pandas
+ipywidgets
+notebook
+qgrid
+nibabel
+seaborn
+dipy
+matplotlib
+niwidgets
+jupyter_contrib_nbextensions
