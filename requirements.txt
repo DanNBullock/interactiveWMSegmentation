@@ -8,4 +8,5 @@ seaborn
 dipy
 matplotlib
 niwidgets
+ipyfilechooser
 jupyter_contrib_nbextensions
