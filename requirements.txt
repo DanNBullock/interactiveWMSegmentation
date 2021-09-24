@@ -10,4 +10,4 @@ matplotlib
 niwidgets
 ipyfilechooser
 jupyter_contrib_nbextensions
-jupyterlab==3.0.6
+jupyterlab==3.1.0
