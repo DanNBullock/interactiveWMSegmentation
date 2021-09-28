@@ -1,5 +1,7 @@
 # Interactive Segmentation Notebook
-A user-friendly jupyter notebook for performing anatomy-based segmentations
+A user-friendly jupyter notebook for performing anatomy-based segmentations.
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/DanNBullock/interactiveWMSegmentation/master?filepath=InteractiveWhiteMatterSegmentation.ipynb)
 
 ## Production Info
 
