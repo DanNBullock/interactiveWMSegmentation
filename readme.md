@@ -1,6 +1,8 @@
 # Interactive Segmentation Notebook
 A user-friendly jupyter notebook for performing anatomy-based segmentations.
 
+[![Neruomatch 4.0 Interactive Segmentation + WMAD presentation](https://img.youtube.com/vi/FAV5HdVQ91c/0.jpg)](https://www.youtube.com/watch?v=FAV5HdVQ91c)
+
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/DanNBullock/interactiveWMSegmentation/master?filepath=InteractiveWhiteMatterSegmentation.ipynb)
 
 ## Production Info
